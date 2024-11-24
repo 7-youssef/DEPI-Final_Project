@@ -35,5 +35,4 @@ We evaluate the generated captions using metrics such as:
 
 Pipeline Summary
 
-Our end-to-end pipeline takes raw images as input, and processes them through multiple stages of preprocessing, feature extraction, and caption generation, resulting in a descriptive caption for each image. Below is a visual summary of the process:
-
+Our end-to-end pipeline takes raw images as input, and processes them through multiple stages of preprocessing, feature extraction, and caption generation, resulting in a descriptive caption for each image.
